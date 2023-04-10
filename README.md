@@ -6,7 +6,7 @@ Spigot project that adds netherite gear to piglins in generated bastion structur
 To enable SLF4J debugging you need to change Appender's logging level. You
 can do it manually for your server's core or copy the `debug.xml` file if
 you're using Paper/Purpur.
-1
+
 ```xml
 <Rewrite name="rewrite2">
     <ExtraClassInfoRewritePolicy />
