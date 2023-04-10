@@ -1,0 +1,4 @@
+name: VoidTesting
+version: '${version}'
+main: voidpointer.test.generaltesting.VoidTesting
+api-version: 1.19
